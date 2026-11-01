@@ -1,0 +1,25 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Generated / Output files
+enhanced_outputs/
+enhanced_test/
+*.wav.tmp
+*.flac.tmp
+
+# Caches & Environment
+.cache/
+nvidia_reuse_model/.cache/
+.env
+.venv/
+venv/
+env/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
